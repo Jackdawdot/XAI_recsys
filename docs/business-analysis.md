@@ -129,7 +129,6 @@
 ---
 # 4. ERD
 
-
 ![ERD](./diagrams/ERD.png)
 ## 5. UML Diagrams
 ![Получение рекомендаций](./diagrams/UML_Get_rec_list.png)
@@ -142,7 +141,7 @@
 
 ---
 # 6. Спецификация API
-
+[OpenAPI спецификация](./XAI_API.yaml)
 
 ---
 # 7. Технические и продуктовые метрики

@@ -130,12 +130,15 @@
 # 4. ERD
 
 
-![[ERD.png]]
+![ERD](./diagrams/ERD.png)
 ## 5. UML Diagrams
-![[UML_Get_rec_list.png]]
-![[UML_request_explain.png]]
-![[UML_xai_call.png]]
-![[UML_Logging.png]]
+![Получение рекомендаций](./diagrams/UML_Get_rec_list.png)
+
+![Запрос объяснения](./diagrams/UML_request_explain.png)
+
+![XAI вызов](./diagrams/UML_xai_call.png)
+
+![Логирование](./diagrams/UML_Logging.png)
 
 ---
 # 6. Спецификация API

@@ -64,4 +64,4 @@
 
 ## 📎 Документация
 
-👉 [Полное описание проекта](./docs/business-analysis.md)
+👉 [Полное описание проекта](./docs/System_requirements.md)
